@@ -3,7 +3,7 @@
 //#include <unistd.h>
 
 
-char* getDirectory{
+char* getDirectory(void){
 	
 	long size;
 	char *buf;
