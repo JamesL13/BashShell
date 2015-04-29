@@ -4,6 +4,7 @@
 void moveDirectories(char *directory)
 {
 	//LOOKED AT OPEN GROUP, NOT SURE WHY RET IS USED AT THE MOMENT
+	//MAYBE IT IS USED FOR ERROR CHECKING?
 	int ret;
 	ret = chdir (directory);
 	if (ret == -1)
