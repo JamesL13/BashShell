@@ -6,3 +6,5 @@
 char* getDirectory(void);
 
 void moveDirectories(char *directory);
+
+void readDirectory(char *directory);

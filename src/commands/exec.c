@@ -1,1 +1,2 @@
-TEST
+#include "../../include/commands.h"
+

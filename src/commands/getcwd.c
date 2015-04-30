@@ -1,6 +1,5 @@
 #include "../../include/commands.h"
-//#include <stdlib.h>
-//#include <unistd.h>
+
 
 
 char* getDirectory(void){
