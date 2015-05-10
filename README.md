@@ -1,7 +1,4 @@
 # BashShell
-James Landy
-JMLMDF
-14153143
 
 This is the worlds best shell. Fast, lean, and with non of that other fluff you don't want. In fact this shell specializes in doing ls, pwd, cd, grep, and executing programs! You don't have to worry about pipes because guess what? This shell can't do that! There is psuedocode for pipes though in case you wanna read how I would do pipes. But there is ample error checks and the shell does fork properly. 
 
